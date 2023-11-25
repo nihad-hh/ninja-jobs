@@ -14,6 +14,7 @@
 
 <script>
 export default {
+  data() {},
   methods: {
     redirect() {
       this.$router.push({ name: "home" });
